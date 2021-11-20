@@ -13,4 +13,4 @@ Stefano Farì, “Guidance and control for a fixed-wing UAV”, MSc Thesis for A
 
 (supervised by dr. Simone Baldi at Delft Center for Systems ad Control, TU Delft). Then, the code has been improved by dr. Simone Baldi at Southeast University together with mr. Kang Yang.
 
-In this version of the code, the fixed wind UAV is requested to follow a line. The controllers are in discrete time, but the output signals are reported in continuous time.  
+In this version of the code, the fixed wind UAV is requested to follow a straight line.
